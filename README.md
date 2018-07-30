@@ -1,6 +1,8 @@
 READMe.md
 File created on Sun 29 July 2018
 
+Second try to save up to github
+
 Addition 2.
 Adding additional information to reflect further changes as to see a more
 visual changes in comparison to an earlier change. Hoping to illustrate purpose of github.
