@@ -1,6 +1,13 @@
 READMe.md
 File created on Sun 29 July 2018
 
+Aug 1, 2018
+google homepage first post up to github.
+
+
+
+
+
 Second try to save up to github
 
 Addition 2.
